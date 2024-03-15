@@ -119,13 +119,6 @@ h1 {
 
 
 #JS
-
-
-
-
-
-
-
 const questions = [
     {
         question: "আল কুরআন নাজিলের পদ্দতি কয়টি?",
@@ -157,7 +150,32 @@ const questions = [
         answer: "আবু বকর (রা)",
         userAnswerIndex: -1
     },
-
+    {
+        question: "ফারুক ইসলামের কেমন বিধান অমান্য করেছে?",
+        options: ["ওয়াজিব","সুন্নত",'মুস্থাহাব','ফরজ'],
+        answer: "ফরজ",
+        userAnswerIndex: -1
+    },
+    {
+        question: "  حدب শব্দের অর্থ হল -",
+        options: ["উঁচুভূমি","নিচুভুমি","মালভূমি"],
+        answer: "উঁচুভূমি",
+        userAnswerIndex: -1
+    },
+     {
+        question: "কিয়ামত কয় প্রকার?",
+        options: ["৫ প্রকার","৩ প্রকার","২ প্রকার","৪ প্রকার"],
+        answer: "২ প্রকার",
+        userAnswerIndex: -1
+    },
+    {
+        question: "জাহান্নামের স্তর কয়টি?",
+        options: ["৬ টি","৮ টি","৭ টি","৫ টি "],
+        answer: "৭ টি ",
+        userAnswerIndex: -1
+    },
+    
+     
     
     // Add more questions here
 ];
