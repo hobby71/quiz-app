@@ -25,7 +25,18 @@
     <script src="ex.js"></script>
 </body>
 </html>
+
+
+
+
+
+
 #CSS
+
+
+
+
+
 /* Add these styles to adjust the font size for results, questions, and options */
 #result-container {
     font-size: 22px; /* Adjust the font size for the result container as needed */
@@ -104,7 +115,17 @@ h1 {
     margin-top: 10px;
 }
 
+
+
+
 #JS
+
+
+
+
+
+
+
 const questions = [
     {
         question: "আল কুরআন নাজিলের পদ্দতি কয়টি?",
